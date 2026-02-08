@@ -8,3 +8,5 @@
     - https://zaebucca.itch.io/adventure-begins
   ### characters
     - **cat**: https://xzany.itch.io/cat-2d-pixel-art
+  ### particles
+    - **effects and particles**: https://itch.io/c/3483521/vfx
